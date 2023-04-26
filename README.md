@@ -19,7 +19,7 @@
 </div>
 
 <h3>Languages and Tools:</h3>
-  <a href = "https://www.w3schools.com/html/default.asp" rel="nofollow"> <img src = "https://github.com/elenaperadze/elenaperadze/blob/main/icons/HTML5.svg" alt="html5" style="max-width: 100%;" width="40" height="40"></a>
+  <a href = "https://www.w3schools.com/html/default.asp" target = '_blank' rel="nofollow"> <img src = "https://github.com/elenaperadze/elenaperadze/blob/main/icons/HTML5.svg" alt="html5" style="max-width: 100%;" width="40" height="40"></a>
   <a href = "https://www.w3schools.com/css/" rel="nofollow"> <img src = "https://github.com/elenaperadze/elenaperadze/blob/main/icons/CSS3.svg" alt="css3" style="max-width: 100%;" width="40" height="40"></a>
   <a href = "https://www.python.org/" rel="nofollow"> <img src = "https://github.com/elenaperadze/elenaperadze/blob/main/icons/python.svg" alt="Python" style="max-width: 100%;" width="40" height="40"></a>
     <a href = "https://docs.python.org/3/library/sqlite3.html" rel="nofollow"> <img src = "https://github.com/elenaperadze/elenaperadze/blob/main/icons/sqlite-original.svg" alt="sqlite3" style="max-width: 100%;" width="40" height="40"></a>
