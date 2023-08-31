@@ -7,7 +7,7 @@
 
 - 🧬 I'm interested in <b>bioinformatics, genetics and BioPython</b>
 
-- 🎮 You can invite me to Homeworld: Deserts of Kharak
+- 🎮 You can invite me to Homeworld: Deserts of Kharak and Homeworld 2
 
 - 📫 You can reach me on IRC: <b>elena_re</b>
 
